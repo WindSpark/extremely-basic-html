@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+ul {list-style-type= none}
+	margin: 0; padding: 0}
+overflow: hidden;
+background color: #333333;}
+li {float left; }
+li a {display: block; color: white; }
+	text align: center ; padding: 16px;
+	test-decoration: none; }
+li a:hover {background-color-: #111111; }
+</ul>
+</style>
+
+
+
+
+<body>
+
+<h1>Water Quality in the US</h1>
+
+<h2>Which city has better tap water quality?</h>
+
+<table style-"width:100%">
+	<tr>
+		<th>City</th>
+		<th>State</th>
+		<th>Lead ppb</th>
+	<tr>
+	<tr>
+		<td>New York</td>
+		<td>New York</td>
+		<td>>1</td>
+	</tr>
+	<tr>
+		<td>Portland</td>
+		<td>Oregon</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>Los Angeles</td>
+		<td>California</td>
+		<td><5</td>
+	</tr>
+</table>
+
+<!-- this is the image line i will come back to this later <img src="" alt"" width="" height=""> -->
+
+
+
+</body>
+</head>
